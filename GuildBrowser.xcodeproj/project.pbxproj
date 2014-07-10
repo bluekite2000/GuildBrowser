@@ -100,6 +100,7 @@
 		48B5CDDC1648293700F3C3E9 /* GuildBrowserLogicTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GuildBrowserLogicTests-Info.plist"; sourceTree = "<group>"; };
 		48B5CDDE1648293700F3C3E9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		48B5CDE31648293700F3C3E9 /* GuildBrowserLogicTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GuildBrowserLogicTests-Prefix.pch"; sourceTree = "<group>"; };
+		760C0C9E196F503800663FDE /* GuildBrowser_Dis.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuildBrowser_Dis.mobileprovision; sourceTree = "<group>"; };
 		76F70BAF196F3ECF006756FD /* character.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = character.json; sourceTree = "<group>"; };
 		76F70BB0196F3ECF006756FD /* guild.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = guild.json; sourceTree = "<group>"; };
 		CB9FDC3B15E9872D00B3713E /* GuildBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuildBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -253,6 +254,7 @@
 		CB9FDC3015E9872D00B3713E = {
 			isa = PBXGroup;
 			children = (
+				760C0C9E196F503800663FDE /* GuildBrowser_Dis.mobileprovision */,
 				CB9FDCEC15E9B31400B3713E /* images */,
 				CB9FDCC115E9A8DA00B3713E /* AFNetworking */,
 				CB9FDC4515E9872D00B3713E /* GuildBrowser */,
