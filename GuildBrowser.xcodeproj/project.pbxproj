@@ -100,7 +100,7 @@
 		48B5CDDC1648293700F3C3E9 /* GuildBrowserLogicTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GuildBrowserLogicTests-Info.plist"; sourceTree = "<group>"; };
 		48B5CDDE1648293700F3C3E9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		48B5CDE31648293700F3C3E9 /* GuildBrowserLogicTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GuildBrowserLogicTests-Prefix.pch"; sourceTree = "<group>"; };
-		760C0C9E196F503800663FDE /* GuildBrowser_Dis.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuildBrowser_Dis.mobileprovision; sourceTree = "<group>"; };
+		760C0CA0196F628500663FDE /* testflight_guildbrowser_dis.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = testflight_guildbrowser_dis.mobileprovision; sourceTree = "<group>"; };
 		76F70BAF196F3ECF006756FD /* character.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = character.json; sourceTree = "<group>"; };
 		76F70BB0196F3ECF006756FD /* guild.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = guild.json; sourceTree = "<group>"; };
 		CB9FDC3B15E9872D00B3713E /* GuildBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuildBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -254,7 +254,7 @@
 		CB9FDC3015E9872D00B3713E = {
 			isa = PBXGroup;
 			children = (
-				760C0C9E196F503800663FDE /* GuildBrowser_Dis.mobileprovision */,
+				760C0CA0196F628500663FDE /* testflight_guildbrowser_dis.mobileprovision */,
 				CB9FDCEC15E9B31400B3713E /* images */,
 				CB9FDCC115E9A8DA00B3713E /* AFNetworking */,
 				CB9FDC4515E9872D00B3713E /* GuildBrowser */,
@@ -765,7 +765,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PROVISIONING_PROFILE = "C0EA5BA4-6DDA-4B25-9B5D-F51EC69C9DFC";
+				PROVISIONING_PROFILE = "42B5B321-4ACF-435C-BEB3-0AEA14022BF2";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 			};
@@ -788,7 +788,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "C0EA5BA4-6DDA-4B25-9B5D-F51EC69C9DFC";
+				PROVISIONING_PROFILE = "42B5B321-4ACF-435C-BEB3-0AEA14022BF2";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 				VALIDATE_PRODUCT = YES;
@@ -804,7 +804,7 @@
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "C0EA5BA4-6DDA-4B25-9B5D-F51EC69C9DFC";
+				PROVISIONING_PROFILE = "42B5B321-4ACF-435C-BEB3-0AEA14022BF2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -818,7 +818,7 @@
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "C0EA5BA4-6DDA-4B25-9B5D-F51EC69C9DFC";
+				PROVISIONING_PROFILE = "42B5B321-4ACF-435C-BEB3-0AEA14022BF2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
