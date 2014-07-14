@@ -27,7 +27,7 @@
     // add the rest as an exercise
 }
 
-- (void)testRaceTypeLookup
+- (void)testRaceLookup
 {
     STAssertEqualObjects(@"Human", [WoWUtils raceFromRaceType:1], nil);
     STAssertEqualObjects(@"Orc", [WoWUtils raceFromRaceType:2], nil);

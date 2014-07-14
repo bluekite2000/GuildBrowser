@@ -4,7 +4,7 @@
 //
 //  Created by Mac2-Get-app on 06/11/12.
 //  Copyright (c) 2012 Charlie Fulton. All rights reserved.
-
+//
 
 #import "CharacterTests.h"
 #import "Character.h"
@@ -17,7 +17,7 @@
     Character *_testGuy;
 }
 
-// 2
+// 2d
 -(void)setUp
 {
     // 3
